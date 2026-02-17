@@ -5,8 +5,7 @@
     "website": "https://pvpcookie.pl/",
     "store": "https://pvpcookie.pl/sklep",
     "addresses": [
-        "pvpcookie.pl",
-        "mc.pvpcookie.pl"
+        "pvpcookie.pl"
     ],
     "primaryAddress": "pvpcookie.pl",
     "primaryColor": "#6F4E37",
